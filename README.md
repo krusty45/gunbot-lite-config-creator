@@ -4,7 +4,9 @@ Localized Gunbot LT (Lite) Configuration interface written in all all native web
 This tool was adopted from Berti
 https://github.com/atomize/Gunfigurator
 
-# You can use a live version at: http://www.tradingbot.org/gblite-config/
+# You can use a live version at: 
+http://www.tradingbot.org/gblite-config/
+
 Note that keys inserted in the online version of this tool are
 not stored online. The online version is derived from index.html
 with Github Pages. You can review the code at any time. 
