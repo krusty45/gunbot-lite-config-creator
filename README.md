@@ -28,7 +28,7 @@ It is possible that Gunbot XT Lite parameters are changed and this configurator 
 # To Do:
 #### Make it look & work better.
 
-##### If you like this at all please feel free to buy me beer!
-###### BTC 18DgYbvMdA3AhqRpwbPpMZ2W5tZsghxE8g
-###### LTC LSUZGQskN5NoWnyU78Ua8QTNGEsxJvPisx
-###### ETH 0xf496643b4093dc3d958b92f4443a897c5e6a5de9
+## If you like this at all please feel free to buy me beer!
+#### BTC 18DgYbvMdA3AhqRpwbPpMZ2W5tZsghxE8g
+#### LTC LSUZGQskN5NoWnyU78Ua8QTNGEsxJvPisx
+#### ETH 0xf496643b4093dc3d958b92f4443a897c5e6a5de9
