@@ -11,7 +11,7 @@ It is possible that the first pair added won't appear in the raw config output.
 It is possible that Gunbot XT Lite parameters are changed and this configurator won't work.
 
 1) Just create a new HTML file wherever you want. 
-2) Paste in the HTML code from gunbot-xt-lite-config-creator.html
+2) Paste in the HTML code from gblitecfg.html
 3) Save new file.
 4) Open it in your browser and generate you config.
 
