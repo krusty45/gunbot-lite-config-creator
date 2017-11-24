@@ -1,11 +1,11 @@
-# Gunbot XT Lite Config Creator
-Localized Gunbot XT Lite Configuration interface written in all all native web code. (Pure HTML/CSS/JS)
+# Gunbot LT (Lite) Config Creator
+Localized Gunbot LT (Lite) Configuration interface written in all all native web code. (Pure HTML/CSS/JS)
 
 This tool was adopted from Berti
 https://github.com/atomize/Gunfigurator
 
 # NOTICE
-Gunbot XT Lite Config Creator is intended for Gunbot XT Lite
+Gunbot LT (Lite) Config Creator is intended for Gunbot LT (Lite)
 It will NOT work with Gunbot XT Full Edition + GUI !!!
 It is possible that the first pair added won't appear in the raw config output. 
 It is possible that Gunbot XT Lite parameters are changed and this configurator won't work.
