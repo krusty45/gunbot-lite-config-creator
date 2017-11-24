@@ -22,7 +22,7 @@ It is possible that Gunbot XT Lite parameters are changed and this configurator 
 3) Save new file.
 4) Open it in your browser and generate you config.
 
-# Doing it this way will prevent you from submitting your API secret into the webz.
+### You can do it this way if you dont want to use the online version!!!
 
 
 #### To Do:
